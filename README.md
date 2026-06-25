@@ -186,6 +186,35 @@ Link Repository:
 https://github.com/ilhammarta11/tubes_siakad_ifa2024_5520123026_ilham.git
 ---
 
+## Screenshot Aplikasi
+
+### Login
+
+![Login](login.png)
+
+### Dashboard
+
+![Dashboard](dashboard_adm.png)
+
+### Data Dosen
+
+![Dosen](data_dosen.png)
+
+### Data Mahasiswa
+
+![Mahasiswa](data_mahasiswa.png)
+
+### Data Mata Kuliah
+
+![Mata Kuliah](data_matkul.png)
+
+### Data Jadwal
+
+![Jadwal](data_jadwal.png)
+
+### Data KRS
+
+![KRS](krs.png)
 ## Author
 
 Nama:
