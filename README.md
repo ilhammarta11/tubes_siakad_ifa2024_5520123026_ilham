@@ -187,34 +187,44 @@ https://github.com/ilhammarta11/tubes_siakad_ifa2024_5520123026_ilham.git
 ---
 
 ## Screenshot Aplikasi
+## Screenshot Aplikasi
 
 ### Login
 
-![Login](login.png)
+![Login](screenshots/login.png)
 
-### Dashboard
+### Dashboard Admin
 
-![Dashboard](dashboard_adm.png)
+![Dashboard Admin](screenshots/dashboard_adm.png)
+
+### Dashboard Mahasiswa
+
+![Dashboard Mahasiswa](screenshots/dashboard_mhs.png)
 
 ### Data Dosen
 
-![Dosen](data_dosen.png)
+![Data Dosen](screenshots/data_dosen.png)
 
 ### Data Mahasiswa
 
-![Mahasiswa](data_mahasiswa.png)
+![Data Mahasiswa](screenshots/data_mahasiswa.png)
 
 ### Data Mata Kuliah
 
-![Mata Kuliah](data_matkul.png)
+![Data Mata Kuliah](screenshots/data_matkul.png)
 
 ### Data Jadwal
 
-![Jadwal](data_jadwal.png)
+![Data Jadwal](screenshots/data_jadwal.png)
 
-### Data KRS
+### Jadwal Mahasiswa
 
-![KRS](krs.png)
+![Jadwal Mahasiswa](screenshots/jadwal_mhs.png)
+
+### KRS Mahasiswa
+
+![KRS](screenshots/krs.png)
+
 ## Author
 
 Nama:
